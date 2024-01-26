@@ -1,5 +1,7 @@
 ### Hi there 👋
+Hey! My name is Saad. I am a Computer Science student. I enjoy learning and working with frameworks that brings innovation and quality. I have gained interest as well as learnt some amazing development skills including software development, web development, data base management, and all the primary C++ OOP and Data Structure development concepts.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saad719)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **saad719/saad719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
