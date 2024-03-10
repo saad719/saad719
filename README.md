@@ -2,11 +2,11 @@
 #### I am an enthusiast learner
 I am a Computer Science student. I enjoy learning and working with frameworks that brings innovation and quality. I have gained interest as well as learnt some amazing development skills including software development, web development, data base management, and all the primary C++ OOP and Data Structure development concepts.
 
-Skills: HTML | CSS | JAVA | SQL | MONGODB | C++ | JAVA | Assembly Language | Data Structures | NetBeans
+Skills: HTML | CSS | JAVA | SQL | MONGODB | C++ | JAVA Script | Assembly Language | Data Structures | NetBeans | Android Studio | Node js
 
-- 🔭 I’m currently working on Full Stack Development | Netbeans | C++ 
+- 🔭 I’m currently working on Full Stack Development | Android Development | C++ | MERN Stack Development
 - 🌱 I’m currently learning Artificial Intelligence, Software Engineering, Software for Mobile Dev, React JS 
-- 👯 I’m looking to collaborate on Software Development, Web development using Figma 
+- 👯 I’m looking to collaborate on Software Development, Web development using Figma, Android Projects
 - 💬 Ask me about C++ | Data Structures | OOP | Software Design and Analysis 
 - 📫 How to reach me: Email : saadnm2148@gmail.com | Phone : +92 309 6789437 
 - ⚡ Fun fact: Gym Freak 
