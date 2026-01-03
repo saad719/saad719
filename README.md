@@ -1,15 +1,121 @@
-### Hi there 👋, my name is Saad
-#### I am an enthusiast learner
-I am a Computer Science student. I enjoy learning and working with frameworks that brings innovation and quality. I have gained interest as well as learnt some amazing development skills including software development, web development, data base management, and all the primary C++ OOP and Data Structure development concepts.
+Full-Stack Developer | Backend Engineer | Cybersecurity Enthusiast
 
-Skills: HTML | CSS | JAVA | SQL | MONGODB | C++ | JAVA Script | Assembly Language | Data Structures | NetBeans | Android Studio | Node js
+I’m a Computer Science graduate / final-year student with a strong passion for building scalable, secure, and production-ready software systems. I enjoy working across the full stack, designing efficient backend architectures, integrating APIs, and applying security-first development practices.
 
-- 🔭 I’m currently working on Full Stack Development | Android Development | C++ | MERN Stack Development
-- 🌱 I’m currently learning Artificial Intelligence, Software Engineering, Software for Mobile Dev, React JS 
-- 👯 I’m looking to collaborate on Software Development, Web development using Figma, Android Projects
-- 💬 Ask me about C++ | Data Structures | OOP | Software Design and Analysis 
-- 📫 How to reach me: Email : saadnm2148@gmail.com | Phone : +92 309 6789437 
-- ⚡ Fun fact: Gym Freak 
+I have hands-on experience in web development, backend systems, database management, API design, and object-oriented programming & data structures. Alongside development, I am a Certified Ethical Hacker (eJPT) with a strong interest in securing applications and infrastructure.
+
+🛠️ Tech Stack & Skills
+Frontend
+
+React.js
+
+HTML5, CSS3, JavaScript (ES6+)
+
+Backend
+
+Python
+
+Laravel (PHP)
+
+Node.js
+
+RESTful API Development & Integration
+
+Databases
+
+MySQL
+
+MongoDB
+
+SQL (Queries, Indexing, Relationships)
+
+Programming & Core CS
+
+C++ (OOP, Data Structures & Algorithms)
+
+Java
+
+Assembly Language
+
+Software Design & Analysis
+
+Tools & Platforms
+
+Git & GitHub
+
+NetBeans
+
+Android Studio
+
+Postman
+
+Figma (Collaboration & UI understanding)
+
+Cybersecurity
+
+Ethical Hacking (eJPT Certified)
+
+Web & API Security Fundamentals
+
+Secure Authentication & RBAC Concepts
+
+🚀 What I’m Currently Working On
+
+Full-Stack Web Development (React + Backend APIs)
+
+Backend & API-Centric Systems
+
+CRM / ERP-style Applications
+
+Secure Application Design
+
+MERN Stack Projects
+
+🌱 What I’m Currently Learning
+
+Advanced React & Frontend Architecture
+
+Artificial Intelligence & Data Analysis
+
+Software Engineering Best Practices
+
+Application & API Security
+
+Scalable Backend Architecture
+
+👯 Open to Collaborate On
+
+Full-Stack & Backend Development Projects
+
+API Development & Integrations
+
+Web Applications & Dashboards
+
+Android Applications
+
+Cybersecurity & Secure System Design
+
+💬 Ask Me About
+
+C++ | OOP | Data Structures & Algorithms
+
+Backend Development & APIs
+
+Database Design & Optimization
+
+Full-Stack Development
+
+Ethical Hacking & Web Security Basics
+
+📫 How to Reach Me
+
+Email: saadnm2148@gmail.com
+
+LinkedIn / Portfolio: (optional – can add later)
+
+⚡ Fun Fact
+
+🏋️ Gym Freak | Strong believer in discipline, consistency, and continuous learning
 
 
 <h3 align="left">Languages and Tools:</h3>
